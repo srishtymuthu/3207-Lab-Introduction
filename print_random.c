@@ -3,7 +3,7 @@
 #include <time.h>
 
 
-
+char randchar();
 int main()
 {
 	int a;
